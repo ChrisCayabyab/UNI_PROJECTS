@@ -18,7 +18,7 @@ The following projects were created during my college years.
 ## 🧩 DESIGN PATTERNS
 
 | Pattern | Link |
-|--------|------|
+|:--------:|:------:|
 | Visitor Design Pattern | [GitHub](https://github.com/ChrisCayabyab/visitorPatternLab) |
 | Visitor Design Pattern 2 | [GitHub](https://github.com/ChrisCayabyab/VisitorDesignPattern) |
 | State Pattern | [GitHub](https://github.com/ChrisCayabyab/StatePattern) |
