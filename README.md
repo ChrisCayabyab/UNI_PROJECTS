@@ -3,6 +3,15 @@ The following projects were created during my college years.
 
 ---
 
+<h1 align="center">THESIS CERTIFICATES</h4>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/90d411a7-929c-4578-b899-181841114946" width="45%"/>
+  <img src="https://github.com/user-attachments/assets/4e869005-59fb-4393-beb4-c542892d3884" width="45%"/>
+  <br><br>
+  <img src="https://github.com/user-attachments/assets/21386bc7-c224-486e-847f-e18f1ea98f47" width="45%"/>
+  <img src="https://github.com/user-attachments/assets/17167dba-9546-4378-bf8f-5f2d2ef4f0d1" width="45%"/>
+</p>
+
 ## 📊 POWER BI
 
 [![Power BI Project 1](https://github.com/user-attachments/assets/19a8aad2-2837-4831-8357-951589f12819)](https://app.powerbi.com/view?r=eyJrIjoiY2Y2YjZkZDctNjk5YS00YmM5LWFiNGQtYTU4MGNhYTUyN2FmIiwidCI6ImJmMGU3NDVkLTRmMGQtNDAyZS1hMjBlLWJmMTA0NTMxMWJlZiIsImMiOjEwfQ%3D%3D)
