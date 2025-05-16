@@ -15,21 +15,72 @@ The following projects were created during my college years.
 
 ---
 
-## 🧩 DESIGN PATTERNS
+<h2>🧩 DESIGN PATTERNS</h2>
 
-| Pattern | Link |
-|:--------:|:------:|
-| Visitor Design Pattern | [GitHub](https://github.com/ChrisCayabyab/visitorPatternLab) |
-| Visitor Design Pattern 2 | [GitHub](https://github.com/ChrisCayabyab/VisitorDesignPattern) |
-| State Pattern | [GitHub](https://github.com/ChrisCayabyab/StatePattern) |
-| State Pattern 2 | [GitHub](https://github.com/ChrisCayabyab/seatworkStatePattern) |
-| Strategy Pattern | [GitHub](https://github.com/ChrisCayabyab/StrategyPattern) |
-| Builder Pattern | [GitHub](https://github.com/ChrisCayabyab/BuilderPattern) |
-| Builder Pattern 2 | [GitHub](https://github.com/ChrisCayabyab/BuilderPatternSeatwork) |
-| Decorator Pattern | [GitHub](https://github.com/ChrisCayabyab/decoratorPattern) |
-| Singleton Pattern | [GitHub](https://github.com/ChrisCayabyab/singletonPattern) |
-| Observer Pattern | [GitHub](https://github.com/ChrisCayabyab/observerPattern) |
-| Facade Pattern | [GitHub](https://github.com/ChrisCayabyab/facadePattern) |
-| Adapter Pattern | [GitHub](https://github.com/ChrisCayabyab/adapterPattern) |
-| Command Pattern | [GitHub](https://github.com/ChrisCayabyab/commandPattern) |
-| Factory Pattern | [GitHub](https://github.com/ChrisCayabyab/factoryPattern) |
+<table align="center">
+  <thead>
+    <tr>
+      <th style="text-align:center;">Pattern</th>
+      <th style="text-align:center;">Link</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">Visitor Design Pattern</td>
+      <td align="center"><a href="https://github.com/ChrisCayabyab/visitorPatternLab">GitHub</a></td>
+    </tr>
+    <tr>
+      <td align="center">Visitor Design Pattern 2</td>
+      <td align="center"><a href="https://github.com/ChrisCayabyab/VisitorDesignPattern">GitHub</a></td>
+    </tr>
+    <tr>
+      <td align="center">State Pattern</td>
+      <td align="center"><a href="https://github.com/ChrisCayabyab/StatePattern">GitHub</a></td>
+    </tr>
+    <tr>
+      <td align="center">State Pattern 2</td>
+      <td align="center"><a href="https://github.com/ChrisCayabyab/seatworkStatePattern">GitHub</a></td>
+    </tr>
+    <tr>
+      <td align="center">Strategy Pattern</td>
+      <td align="center"><a href="https://github.com/ChrisCayabyab/StrategyPattern">GitHub</a></td>
+    </tr>
+    <tr>
+      <td align="center">Builder Pattern</td>
+      <td align="center"><a href="https://github.com/ChrisCayabyab/BuilderPattern">GitHub</a></td>
+    </tr>
+    <tr>
+      <td align="center">Builder Pattern 2</td>
+      <td align="center"><a href="https://github.com/ChrisCayabyab/BuilderPatternSeatwork">GitHub</a></td>
+    </tr>
+    <tr>
+      <td align="center">Decorator Pattern</td>
+      <td align="center"><a href="https://github.com/ChrisCayabyab/decoratorPattern">GitHub</a></td>
+    </tr>
+    <tr>
+      <td align="center">Singleton Pattern</td>
+      <td align="center"><a href="https://github.com/ChrisCayabyab/singletonPattern">GitHub</a></td>
+    </tr>
+    <tr>
+      <td align="center">Observer Pattern</td>
+      <td align="center"><a href="https://github.com/ChrisCayabyab/observerPattern">GitHub</a></td>
+    </tr>
+    <tr>
+      <td align="center">Facade Pattern</td>
+      <td align="center"><a href="https://github.com/ChrisCayabyab/facadePattern">GitHub</a></td>
+    </tr>
+    <tr>
+      <td align="center">Adapter Pattern</td>
+      <td align="center"><a href="https://github.com/ChrisCayabyab/adapterPattern">GitHub</a></td>
+    </tr>
+    <tr>
+      <td align="center">Command Pattern</td>
+      <td align="center"><a href="https://github.com/ChrisCayabyab/commandPattern">GitHub</a></td>
+    </tr>
+    <tr>
+      <td align="center">Factory Pattern</td>
+      <td align="center"><a href="https://github.com/ChrisCayabyab/factoryPattern">GitHub</a></td>
+    </tr>
+  </tbody>
+</table>
+
