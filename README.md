@@ -3,7 +3,7 @@ The following projects were created during my college years.
 
 ---
 
-<h1 align="center">THESIS CERTIFICATES</h4>
+<h1 align="center">THESIS CERTIFICATES</h1>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/90d411a7-929c-4578-b899-181841114946" width="45%"/>
   <img src="https://github.com/user-attachments/assets/4e869005-59fb-4393-beb4-c542892d3884" width="45%"/>
@@ -11,6 +11,16 @@ The following projects were created during my college years.
   <img src="https://github.com/user-attachments/assets/21386bc7-c224-486e-847f-e18f1ea98f47" width="45%"/>
   <img src="https://github.com/user-attachments/assets/17167dba-9546-4378-bf8f-5f2d2ef4f0d1" width="45%"/>
 </p>
+
+<h1 align="center">AWARDS AND CONTRIBUTIONS</h1>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/92407cc3-90cd-49ab-aff1-1253ce9b9bb8" width="45%"/>
+  <img src="https://github.com/user-attachments/assets/e1c7782a-1b84-49fe-920d-82ed114cbdb1" width="45%"/>
+  <br><br>
+  <img src="https://github.com/user-attachments/assets/c6883453-ceb6-4d11-9393-fa8728bf9347" width="45%"/>
+  <img src="https://github.com/user-attachments/assets/0b1f27ce-1dfa-4a17-9bae-9fc2cd76dd42" width="45%"/>
+</p>
+
 
 ## 📊 POWER BI
 
